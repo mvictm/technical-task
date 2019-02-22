@@ -1,7 +1,7 @@
 <h1>#Technical Task for Exactpro company.<h1/> 
     
-<big>This project realize function of serialization/deserialization JavaBeans. 
-Firstly, I need to implement the interface: <big/>
+This project realize function of serialization/deserialization JavaBeans. 
+Firstly, I need to implement the interface:
 <pre>interface SuperEncoder {
           byte[] serialize(Object anyBean);
           Object deserialize(byte[] data);
