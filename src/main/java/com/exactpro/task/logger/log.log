@@ -1,0 +1,10 @@
+2019-02-22 17:21:57,427 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.FirstBeanExample isn't null.
+2019-02-22 17:21:57,515 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.FirstBeanExample was successfully serialized!
+2019-02-22 17:21:57,516 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.SecondBeanExample isn't null.
+2019-02-22 17:21:57,530 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.SecondBeanExample was successfully serialized!
+2019-02-22 17:21:57,531 INFO c.e.t.l.SuperEncoderImpl [main] Byte array isn't empty.
+2019-02-22 17:21:57,778 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.FirstBeanExample isn't null.
+2019-02-22 17:21:57,779 INFO c.e.t.l.SuperEncoderImpl [main] Deserialization succeeded!
+2019-02-22 17:21:57,780 INFO c.e.t.l.SuperEncoderImpl [main] Byte array isn't empty.
+2019-02-22 17:21:57,782 INFO c.e.t.l.SuperEncoderImpl [main] class com.exactpro.task.example.SecondBeanExample isn't null.
+2019-02-22 17:21:57,782 INFO c.e.t.l.SuperEncoderImpl [main] Deserialization succeeded!
