@@ -2,6 +2,7 @@ package com.exactpro.task.example;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 import java.time.Instant;
@@ -17,6 +18,7 @@ import java.time.Instant;
  */
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class SecondBeanExample implements Serializable {
     private Long aLong;
     private Instant instant;

@@ -2,9 +2,11 @@ package com.exactpro.task.example;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
+import java.util.List;
 
 /**
  * This is the first JavaBean example. Project Lombok helps to create a Bean.
@@ -18,9 +20,11 @@ import java.math.BigDecimal;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class FirstBeanExample implements Serializable {
     private String string;
     private BigDecimal bigDecimal;
     private Integer integer;
+    private List<SecondBeanExample> list;
     //private FirstBeanExample firstBeanExample;
 }
